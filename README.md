@@ -73,6 +73,12 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ⭐ Siempre abierto a nuevas oportunidades en IT
 
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--
 **DaniMa02/DaniMa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

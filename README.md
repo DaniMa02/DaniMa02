@@ -59,14 +59,13 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ## 🚀 Proyectos destacados
 
-- [Bot Gestón Discord]([link](https://github.com/DaniMa02/Outsiders_bot))
-- [TFG (API Proxmox + Base de datos)]([link](https://github.com/DaniMa02/Proxmox-API))
+- [Bot Gestón Discord](https://github.com/DaniMa02/Outsiders_bot)
+- [TFG (API Proxmox + Base de datos)](https://github.com/DaniMa02/Proxmox-API)
 
 ---
 
 ## 🗣️ Idiomas
 
-## 🗣️ Idiomas
 🇪🇸 Español – Nativo  
 🇬🇧 Inglés – B2/C1 (Avanzado)  
 

@@ -44,7 +44,7 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ## 📊 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMa02&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMa02&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMa02&layout=compact&theme=tokyonight)
 

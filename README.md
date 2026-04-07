@@ -59,17 +59,16 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ## 🚀 Proyectos destacados
 
-🔹 Aquí puedes destacar tus mejores repos:
-- [Nombre del proyecto](link)
-- [Nombre del proyecto](link)
-- [Nombre del proyecto](link)
+- [Bot Gestón Discord]([link](https://github.com/DaniMa02/Outsiders_bot))
+- [TFG (API Proxmox + Base de datos)]([link](https://github.com/DaniMa02/Proxmox-API))
 
 ---
 
 ## 🗣️ Idiomas
 
-![Español](https://img.shields.io/badge/🇪🇸%20Español-Nativo-FFD700?style=for-the-badge)
-![Inglés](https://img.shields.io/badge/🇬🇧%20Inglés-B2-1E90FF?style=for-the-badge)
+## 🗣️ Idiomas
+🇪🇸 Español – Nativo  
+🇬🇧 Inglés – B2/C1 (Avanzado)  
 
 ---
 

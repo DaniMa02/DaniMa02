@@ -44,7 +44,7 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ## 📊 GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMa02)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMa02)](https://github.com/DaniMa02/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniMa02&theme=dark&hide_border=true" />
 
 ---

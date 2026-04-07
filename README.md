@@ -57,7 +57,7 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ---
 
-## 🚀 Proyectos destacados
+## 📜  Mis proyectos y actividad
 
 - [Bot Gestón Discord](https://github.com/DaniMa02/Outsiders_bot)
 - [TFG (API Proxmox + Base de datos)](https://github.com/DaniMa02/Proxmox-API)
@@ -73,7 +73,7 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ## 📫 Contacto
 
-📧 danielmiguela411@gmail.com  
+📧 Email: danielmiguela411@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/daniel-miguela-alfonso-402091317/  
 
 ---

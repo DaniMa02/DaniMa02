@@ -72,7 +72,9 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 🔗 LinkedIn: https://www.linkedin.com/in/daniel-miguela-alfonso-402091317/  
 
 ---
+## 🛠️ Tech Stack
 
+![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,ansible,mysql,postgres,git)
 ⭐ Siempre abierto a nuevas oportunidades en IT
 
 <!--

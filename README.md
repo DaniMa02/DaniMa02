@@ -16,6 +16,12 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ---
 
+## 📚 Actualmente aprendiendo
+- ☁️ AWS Cloud & Cloud Computing (In Progress)  
+  EOI – Escuela de Organización Industrial · Andalucía · 2026
+
+---
+
 ## 🛠️ Competencias Técnicas
 
 ## 🌐 Redes

@@ -46,8 +46,7 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 <img src="https://github-readme-stats.vercel.app/api?username=DaniMa02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMa02&layout=compact&langs_count=8&theme=algolia" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniMa02&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniMa02&theme=dark&hide_border=true" />
 
 ---

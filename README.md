@@ -49,6 +49,7 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMa02&layout=compact&langs_count=8&theme=algolia" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniMa02&theme=dark&hide_border=true" />
+
 ---
 
 ## 🚀 Proyectos destacados

@@ -67,8 +67,10 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 ---
 
 ## 🗣️ Idiomas
-![🇪🇸 Español](https://img.shields.io/badge/Español-FFD700?style=for-the-badge&logo=flag-spain)
-![🇬🇧 Inglés](https://img.shields.io/badge/Inglés-1E90FF?style=for-the-badge&logo=flag-united-kingdom)
+
+![Español](https://img.shields.io/badge/🇪🇸%20Español-Nativo-FFD700?style=for-the-badge)
+![Inglés](https://img.shields.io/badge/🇬🇧%20Inglés-B2-1E90FF?style=for-the-badge)
+
 ---
 
 ## 📫 Contacto
@@ -78,13 +80,6 @@ Me interesa seguir creciendo en el área de sistemas, soporte técnico y entorno
 
 ---
 
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--
 **DaniMa02/DaniMa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
